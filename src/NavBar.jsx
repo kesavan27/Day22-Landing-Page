@@ -7,7 +7,7 @@ function NavBar() {
     return (
         <>
         <nav className="navbar navbar-expand-lg navbar-light bg-transparent" style={{ padding: '0px', backgroundColor: '#F4C2C2' }}>
-            <a className="navbar-brand" style={{ marginLeft: '2%' }} href="./IntroContent.jsx">
+            <a className="navbar-brand" style={{ marginLeft: '2%' }} href="">
                 VK&apos;s EdTech
             </a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,22 +16,22 @@ function NavBar() {
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul className="navbar-nav mr-auto">
                     <li className="nav-item active">
-                        <a className="nav-link" href="/faq">
+                        <a className="nav-link" href="">
                             Live Courses <span className="sr-only">(current)</span>
                         </a>
                     </li>
                     <li className="nav-item active">
-                        <a className="nav-link" href="/use-cases">
+                        <a className="nav-link" href="">
                             Recorded Courses <span className="sr-only">(current)</span>
                         </a>
                     </li>
                     <li className="nav-item active">
-                        <a className="nav-link" href="/Placement">
+                        <a className="nav-link" href="">
                             Placements<span className="sr-only">(current)</span>
                         </a>
                     </li>
                     <li className="nav-item active">
-                        <a className="nav-link" href="/newsletter">
+                        <a className="nav-link" href="">
                             Contact <span className="sr-only">(current)</span>
                         </a>
                     </li>
