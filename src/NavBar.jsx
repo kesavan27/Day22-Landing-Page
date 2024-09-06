@@ -7,7 +7,7 @@ function NavBar() {
     return (
         <>
         <nav className="navbar navbar-expand-lg navbar-light bg-transparent" style={{ padding: '0px', backgroundColor: '#F4C2C2' }}>
-            <a className="navbar-brand" style={{ marginLeft: '2%' }} href="/">
+            <a className="navbar-brand" style={{ marginLeft: '2%' }} href="./IntroContent.jsx">
                 VK&apos;s EdTech
             </a>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
