@@ -26,7 +26,7 @@ function NavBar() {
                         </a>
                     </li>
                     <li className="nav-item active">
-                        <a className="nav-link" href="/blog">
+                        <a className="nav-link" href="/Placement">
                             Placements<span className="sr-only">(current)</span>
                         </a>
                     </li>
